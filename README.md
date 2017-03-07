@@ -23,28 +23,6 @@ The first transaction block created in blockchain is the Genesis block which can
 We can also eliminate the manual initiation process by using the blockchain for buyer to initiate the loan process with bank
 Blockchain is also used to foster the negotiation for the closing procedure process.
 
-C. Freelance for Non Profit organizations:
-
-Presently many websites offer freelancing services where an employer can find employers by putting up a project requirement on their website and allowing freelancers to bid for the skills that they possess and the amount they wish to charge for it.
-An NPO may have technical projects related to maintain their database, managing user profiles, donor profiles, influx of money etc. and other different types of data, creating their websites, updating and managing it and many others.
-A volunteer on the other hand, might just be looking to offer their skills and expertise for free, for various reasons as gaining technical experience, adding to the gamut of their skills or just for philanthropy in their own way.
-Here we wish to create a platform where Non-Profit organizations are able to call in for volunteering on the software related work for them without having to put up a bidding.
-The users are three types:
-1.	Organization
-a.	Puts up organization profile
-b.	Puts up project detail
-i.	User story or the “Need”
-ii.	Technologies required
-iii.	Timeline
-2.	Volunteers
-a.	Maintain profile with skills to offer
-b.	Search for projects
-c.	Offer to work
-3.	Admin or Moderator
-a.	Moderates the projects and the Volunteers
-b.	Responding to the bugs and errors (or other issues) reported by the users
-Though this website we wish to provide solution to both the organization looking for skilled people for their technical projects and also the workers to put their skills for charity work.
-
 References:
 1.	https://www.linkedin.com/pulse/application-blockchain-real-estate-industry-dheeraj-sinha-mba?articleId=6927815193830826763
 2.	https://www.upwork.com/blog/
