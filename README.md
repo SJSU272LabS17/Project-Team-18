@@ -2,7 +2,7 @@
 
 Abstract for the Team 18
 
- A. How engaged my employees are?
+ A. How engaged my employees are? (Using Big Data Analysis)
 
 Just as much as we focus on customer relations in business, employee trust and satisfaction is also important. How do we know what the employee is passionate about, under what circumstance they give top performance, which policies and features of the company do they like or dislike, how do we gain their trust or from a manager’s point of view how do we figure out which employee will retain in the organization, who should be promoted, why did the employee’s performance boost up or deteriorate? 
 All this and much more can be done by mining data from social media data and also by using existing data of employees that has been accumulated over the years inside the organization. The data obtained from social media like posts, tweets, blogs etc. related to work, we can determine the employee’s attitude towards the company and his passion towards his work. With Big data analysis, we can not only use the data to ensure current employee performance and satisfaction but we can also use it hire new employees whose performance outcome also can be predicted without depending on the paper resume or going with gut feeling during interview process
