@@ -28,20 +28,20 @@ Utilization of blockchain will have win-win circumstance for the partners includ
 
 **Implementation of blockchain real estate**
 
-At the point when purchaser likes the property recorded by the dealer, deals contract is acknowledged. This is the start point for the beginning square to begin for the brilliant contract for the exchange. 
+-->At the point when purchaser likes the property recorded by the dealer, deals contract is acknowledged. This is the start point for the beginning square to begin for the brilliant contract for the exchange. 
 
 
-The smart contracts that should be started ought to include the mark from purchaser and the dealer so that when both the gathering consents to the terms (or sign the agreement), smart contract gets executed effectively. Keeping in mind the end goal to execute that, one of the blockchain capacities that could be actualized is "multisig" OR "part keys". This escrow sum will stay legitimate till the exchange is substantial. Rationale could be customized in the blockchain exchange utilizing "bolt time" to manage the escrow sum after a settled span of time concurred amid the exchange. 
+-->The smart contracts that should be started ought to include the mark from purchaser and the dealer so that when both the gathering consents to the terms (or sign the agreement), smart contract gets executed effectively. Keeping in mind the end goal to execute that, one of the blockchain capacities that could be actualized is "multisig" OR "part keys". This escrow sum will stay legitimate till the exchange is substantial. Rationale could be customized in the blockchain exchange utilizing "bolt time" to manage the escrow sum after a settled span of time concurred amid the exchange. 
 
 
-Once the examination is finished and shutting system is started, the blockchain will be marked by both the purchaser and dealer to finish the exchange. Once the exchange is finished, it could be sent to the associate system of land blockchain database so that the various hubs can be advised about it. 
+-->Once the examination is finished and shutting system is started, the blockchain will be marked by both the purchaser and dealer to finish the exchange. Once the exchange is finished, it could be sent to the associate system of land blockchain database so that the various hubs can be advised about it. 
 
 
-An ensuing trigger notice goes to the bank of the end strategy about the bringing home the bacon so that the advance sum could payment could be started to be sent to the vender. A comparative notice goes to the purchaser that the bank has been advised about the dispensing. Additionally, notice should be sent to the vender and the merchant operators to hand over the keys to the purchaser. 
-Every one of the confirmations for the assertion contract could even now be a piece of the exchange in the blockchain and accessible to people in general keeping the individual and delicate information covered up. 
+-->An ensuing trigger notice goes to the bank of the end strategy about the bringing home the bacon so that the advance sum could payment could be started to be sent to the vender. A comparative notice goes to the purchaser that the bank has been advised about the dispensing. Additionally, notice should be sent to the vender and the merchant operators to hand over the keys to the purchaser. 
 
 
-Purchaser and Seller specialists as Miner/Nodes: Once purchaser gets the keys and dealer gets the money from the bank, vender and purchaser operators can carry on as mineworker with the goal that they can get the exchange expenses by mining it. Once the dealer operators and purchaser specialists finds a proof-of-work, it communicates the piece to all hubs, exchange charge ought to be exchanged to their individual locations.
+
+-->Purchaser and Seller specialists as Miner/Nodes: Once purchaser gets the keys and dealer gets the money from the bank, vender and purchaser operators can carry on as mineworker with the goal that they can get the exchange expenses by mining it. 
 
 Figure shows how Blockchain Enabled Real Estate Industry works : 
 
