@@ -15,7 +15,8 @@ Gist of the matter is at every stage, there are intermediaries involved which re
 **The solution**
 
 
-![image](https://cloud.githubusercontent.com/assets/25543015/26038516/f9594fbe-38be-11e7-8220-a3838f650dfe.png)
+![image](https://cloud.githubusercontent.com/assets/25543015/26038572/60336afc-38c0-11e7-8de8-d639ded3b6e7.png)
+
 
 
 Utilization of blockchain will have win-win circumstance for the partners included. 
@@ -49,8 +50,14 @@ Figure shows how Blockchain Enabled Real Estate Industry works :
 
 
 Team members
+
 Amreen abdul wahab
+
 Aayushi Mittal
+
 Rimpy Bharot
+
 Anirudh venkatraman
+
+
 
