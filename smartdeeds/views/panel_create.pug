@@ -1,0 +1,37 @@
+#createPanel(hidden).panel
+	h1 Create Paper
+	hr
+	
+	#innerWrap
+		span.fa.fa-file-text-o(style="font-size: 250px; float:left;")
+		
+		form(action="/create" method="POST")#createform
+			legend 
+				input(type="text" name="ticker" placeholder="ADDRESS")
+				span.hint ADDRESS
+			legend 
+				input(type="text" name="par" placeholder="Price")
+				span.hint SELLING PRICE
+			legend 
+				select(name="qty")
+					option 1
+				span.hint QTY
+			legend 
+				select(name="discount")
+					option(value="1") 1BHK
+					option(value="2") 2BHK
+					option(value="3") 3BHK
+					option(value="4") 4BHK
+					option(value="5") 5BHK
+				span.hint BHK
+			legend 
+				input(type="text" name="maturity" placeholder="SQFT.")
+				span.hint SQFT.
+			legend 
+				input(type="text" name="owner" placeholder="OWNER")
+				span.hint OWNER
+			legend
+				button(type="button" style="margin:5px;")#submit
+					span.fa.fa-check &nbsp;&nbsp;
+					span CREATE
+				
