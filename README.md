@@ -51,7 +51,7 @@ Figure shows how Blockchain Enabled Real Estate Industry works :
 
 Team members
 
-Amreen abdul wahab
+Amreen Abdul Wahab
 
 Aayushi Mittal
 
